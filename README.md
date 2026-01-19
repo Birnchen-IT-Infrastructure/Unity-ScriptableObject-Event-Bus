@@ -1,3 +1,8 @@
+[![Release](https://img.shields.io/github/v/release/USERNAME/REPO)](https://github.com/USERNAME/REPO/releases)
+[![Stars](https://img.shields.io/github/stars/USERNAME/REPO)](https://github.com/USERNAME/REPO/stargazers)
+[![Issues](https://img.shields.io/github/issues/USERNAME/REPO)](https://github.com/USERNAME/REPO/issues)
+[![CI](https://github.com/USERNAME/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/REPO/actions)
+
 <div align="center">
   <img src="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/blob/main/Docs/banner2.png" alt="Unity ScriptableObject Event Bus" width="900" />
   <br>
@@ -6,7 +11,7 @@
     <strong>A lightweight, type-safe event architecture for Unity based on ScriptableObjects.</strong>
   </p>
   <p align="center">
-  <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-2022.3%2B-blue" alt="Unity Version"></a>
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-6-blue" alt="Unity Version"></a>
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
   <a href="https://github.com/sponsors/Birnchen-IT-Infrastructure"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%F0%9F%92%9B-yellow.svg"></a>
   <img alt="Made with ❤️" src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg">
