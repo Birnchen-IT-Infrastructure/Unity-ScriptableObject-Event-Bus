@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/releases">
-    <img alt="Release" src="https://img.shields.io/github/v/release/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Release&color=DFFB65&labelColor=0D1345">
-  </a>
+  <img src="https://img.shields.io/github/v/release/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Release&color=0D1345&logo=github&logoColor=DFFB65" alt="Release">
+</a>
   <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/actions/workflows/ci.yml">
     <img alt="CI" src="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/actions/workflows/ci.yml/badge.svg">
   </a>
@@ -14,8 +14,8 @@
   </a>
   -->
   <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Issues&color=DFFB65&labelColor=0D1345">
-  </a>
+  <img src="https://img.shields.io/github/issues/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Issues&color=0D1345&logo=github&logoColor=DFFB65" alt="Issues">
+</a>
 </p>
 
 <div align="center">
