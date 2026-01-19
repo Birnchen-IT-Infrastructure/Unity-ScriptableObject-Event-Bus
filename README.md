@@ -1,7 +1,18 @@
-[![Release](https://img.shields.io/github/v/release/USERNAME/REPO)](https://github.com/USERNAME/REPO/releases)
-[![Stars](https://img.shields.io/github/stars/USERNAME/REPO)](https://github.com/USERNAME/REPO/stargazers)
-[![Issues](https://img.shields.io/github/issues/USERNAME/REPO)](https://github.com/USERNAME/REPO/issues)
-[![CI](https://github.com/USERNAME/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/REPO/actions)
+<p align="center">
+  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/releases">
+    <img alt="Release" src="https://img.shields.io/github/v/release/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Release&color=DFFB65&labelColor=0D1345">
+  </a>
+  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Stars&color=DFFB65&labelColor=0D1345">
+  </a>
+  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/network/members">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Forks&color=DFFB65&labelColor=0D1345">
+  </a>
+  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Issues&color=DFFB65&labelColor=0D1345">
+  </a>
+</p>
+
 
 <div align="center">
   <img src="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/blob/main/Docs/banner2.png" alt="Unity ScriptableObject Event Bus" width="900" />
@@ -11,9 +22,9 @@
     <strong>A lightweight, type-safe event architecture for Unity based on ScriptableObjects.</strong>
   </p>
   <p align="center">
-  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-6-blue" alt="Unity Version"></a>
-  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
-  <a href="https://github.com/sponsors/Birnchen-IT-Infrastructure"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%F0%9F%92%9B-yellow.svg"></a>
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-6%20LTS-0D1345?style=flat&logo=unity&logoColor=DFFB65" alt="Unity Version"></a>
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-0D1345?style=flat&logoColor=0D1345"></a>
+  <a href="https://github.com/sponsors/Birnchen-IT-Infrastructure"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%F0%9F%92%9B-0D1345.svg"></a>    
   <img alt="Made with ❤️" src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg">
 </p>
 </div>
