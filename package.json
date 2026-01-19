@@ -1,0 +1,13 @@
+{
+  "name": "com.birnchen.eventbus",
+  "displayName": "Birnchens SO Driven Eventbus",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "unity": "6000.3",
+  "description": "Birnchen Event Bus System",
+  "author": {
+    "name": "Birnchen",
+    "email": "support@birnchen-interactive.de"
+  }
+}
