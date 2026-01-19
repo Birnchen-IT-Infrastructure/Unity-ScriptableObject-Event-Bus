@@ -2,6 +2,9 @@
   <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/releases">
     <img alt="Release" src="https://img.shields.io/github/v/release/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Release&color=DFFB65&labelColor=0D1345">
   </a>
+  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/actions/workflows/ci.yml">
+    <img alt="CI" src="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/actions/workflows/ci.yml/badge.svg">
+  </a>
   <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/stargazers">
     <img alt="Stars" src="https://img.shields.io/github/stars/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Stars&color=DFFB65&labelColor=0D1345">
   </a>
