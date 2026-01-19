@@ -1,15 +1,35 @@
 # 🍐 Unity ScriptableObject Event Bus
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/Docs/banner.png" alt="Unity ScriptableObject Event Bus Banner" width="900" />
+  <img src="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/blob/main/Docs/banner.png" alt="Unity ScriptableObject Event Bus" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-2021%2B-black.svg"></a>
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-2022.3%2B-blue" alt="Unity Version"></a>
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
   <a href="https://github.com/sponsors/USERNAME"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%F0%9F%92%9B-yellow.svg"></a>
   <img alt="Made with ❤️" src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg">
 </p>
+
+<div align="center">
+  <img src="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/blob/main/Docs/banner.png" alt="Unity ScriptableObject Event Bus" width="900" />
+  
+  <br>
+
+  <h1>Birnchen Event Bus</h1>
+  <p>
+    <strong>A lightweight, type-safe event architecture for Unity based on ScriptableObjects.</strong>
+  </p>
+  
+  <p>
+    <a href="LICENSE">
+      <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+    </a>
+    <a href="https://unity.com">
+      <img src="https://img.shields.io/badge/unity-2022.3%2B-blue" alt="Unity Version">
+    </a>
+  </p>
+</div>
 
 A lightweight **Event Bus system for Unity**, built on **ScriptableObjects** to enable clean and decoupled communication between game systems.
 
