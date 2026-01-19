@@ -2,19 +2,17 @@
   <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/releases">
   <img src="https://img.shields.io/github/v/release/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Release&color=0D1345&logo=github&logoColor=DFFB65" alt="Release">
 </a>
-  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/actions/workflows/ci.yml">
-    <img alt="CI" src="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/actions/workflows/ci.yml/badge.svg">
-  </a>
-  <!--
-  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Stars&color=DFFB65&labelColor=0D1345">
-  </a>
-  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/network/members">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Forks&color=DFFB65&labelColor=0D1345">
-  </a>
-  -->
   <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/issues">
   <img src="https://img.shields.io/github/issues/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Issues&color=0D1345&logo=github&logoColor=DFFB65" alt="Issues">
+</a>
+  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/actions/workflows/ci.yml">
+  <img src="https://img.shields.io/github/actions/workflow/status/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/ci.yml?style=flat&label=CI&logo=githubactions&logoColor=DFFB65" alt="CI">
+</a>
+  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/stargazers">
+  <img src="https://img.shields.io/github/stars/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Stars&color=0D1345&logo=github&logoColor=DFFB65" alt="Stars">
+</a>
+  <a href="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/network/members">
+  <img src="https://img.shields.io/github/forks/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus?style=flat&label=Forks&color=0D1345&logo=github&logoColor=DFFB65" alt="Forks">
 </a>
 </p>
 
