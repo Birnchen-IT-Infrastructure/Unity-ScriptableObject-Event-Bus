@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+
+jobs:
+  validate-package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate package.json exists
+        run: |
+          test -f package.json || (echo "❌ package.json not found in repo root." && exit 1)
+          echo "✅ package.json found"
+
+      - name: Validate package.json is valid JSON + required fields
+        run: |
+          python - << 'PY'
+          import json, sys
+          path = "package.json"
+          with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+          required = ["name", "version", "displayName", "description"]
+          missing = [k for k in required if k not in data or not str(data[k]).strip()]
+          if missing:
+            print("❌ Missing required fields in package.json:", ", ".join(missing))
+            sys.exit(1)
+
+          # Basic sanity checks
+          if not str(data["name"]).startswith("com."):
+            print("❌ package.json 'name' should start with 'com.' (e.g. com.birnchen.eventbus)")
+            sys.exit(1)
+
+          print("✅ package.json looks good")
+          print("   name:", data["name"])
+          print("   version:", data["version"])
+          PY
+
+      - name: Validate expected folders
+        run: |
+          test -d Runtime || (echo "❌ Runtime/ folder not found. Unity packages should place runtime code in Runtime/." && exit 1)
+          echo "✅ Runtime/ folder found"
+
+      - name: Validate LICENSE (MIT) exists
+        run: |
+          test -f LICENSE || (echo "❌ LICENSE file not found." && exit 1)
+          echo "✅ LICENSE file found"
