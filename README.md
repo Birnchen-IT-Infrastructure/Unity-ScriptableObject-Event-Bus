@@ -13,7 +13,6 @@
   </a>
 </p>
 
-
 <div align="center">
   <img src="https://github.com/Birnchen-IT-Infrastructure/Unity-ScriptableObject-Event-Bus/blob/main/Docs/banner2.png" alt="Unity ScriptableObject Event Bus" width="900" />
   <br>
