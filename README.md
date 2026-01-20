@@ -220,7 +220,7 @@ If you want to contribute, feel free to:
 
 If this project helps you, consider supporting it via **GitHub Sponsors**:
 
-👉 **https://github.com/sponsors/USERNAME**
+👉 **https://github.com/sponsors/Birnchen-IT-Infrastructure**
 
 Every sponsor helps keeping this project maintained and improving it over time. 🦖✨🍐
 
